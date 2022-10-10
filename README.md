@@ -1,5 +1,4 @@
-- 👋 Hey, I’m @NoIndexx !!
+- 👋 Hey, I’m Renato Cesar!
 - 👀 I’m interested in learning new technologies and ways to make the world a more collaborative place - why don't say a better place? -
-- 🌱 I’m currently learning cloud architectures and projects
 - 💞️ I’m looking to collaborate on anything related to FinTechs and the Cloud environment
 - 📫 https://www.linkedin.com/in/renato-c-oliveira/
